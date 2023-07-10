@@ -17,7 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=betulkarss&show_icons=true&locale=en&layout=compact" alt="betulkarss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=betulkarss&" alt="betulkarss" /></p>
 
 
 
